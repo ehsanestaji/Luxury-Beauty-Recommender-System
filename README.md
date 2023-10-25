@@ -1,6 +1,7 @@
-# Amazon Product Reviews Analysis
+<div align="center"><img src="Images/logo.png" alt="Recommender System" style='width : 50%'></div>
 
-![Recommender System]('Images/logo.png')
+
+# Amazon Product Reviews Analysis
 
 ## Table of Contents
 1. [Introduction](#introduction)
