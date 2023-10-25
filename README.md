@@ -4,7 +4,7 @@ Sure! Below is a sample README template for your project, integrated with the pr
 
 # Amazon Product Reviews Analysis
 
-![Recommender System]('Images/logo.png)
+![Recommender System]('Images/logo.png')
 
 ## Table of Contents
 1. [Introduction](#introduction)
