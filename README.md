@@ -1,7 +1,3 @@
-Sure! Below is a sample README template for your project, integrated with the provided image:
-
----
-
 # Amazon Product Reviews Analysis
 
 ![Recommender System]('Images/logo.png')
