@@ -1,4 +1,10 @@
+Sure! Below is a sample README template for your project, integrated with the provided image:
+
+---
+
 # Amazon Product Reviews Analysis
+
+![Recommender System]('Images/logo.png)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -51,14 +57,16 @@ pip install -r requirements.txt
 - **Scoring Metrics**: Accuracy and F1 Score.
 
 ## Results
-Use PCA and other techniques to visualize results and evaluate the model. 
+Use PCA and other techniques to visualize results and evaluate the model.
 
 ## Limitations and Recommendations
 - Cannot handle unknown words.
 - Limited by lemmatization and lack of spell check.
 - Cannot detect sarcasm or irony.
 
+## Contributing
+For contributions, please create a fork and submit a Pull Request.
 
 ---
 
-Feel free to modify this README to better match the specifics of your project.
+Replace `https://path-to-your-image-on-github.com/recommender-system-image.png` with the actual URL to the image you upload on your GitHub repository.
