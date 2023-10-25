@@ -64,5 +64,3 @@ Use PCA and other techniques to visualize results and evaluate the model.
 For contributions, please create a fork and submit a Pull Request.
 
 ---
-
-Replace `https://path-to-your-image-on-github.com/recommender-system-image.png` with the actual URL to the image you upload on your GitHub repository.
